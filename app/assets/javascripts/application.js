@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+
+
+=======
 // This is a manifest file that'll be compiled into application.js, which will include all the files
 // listed below.
 //
@@ -9,7 +13,16 @@
 //
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
-//
+
+
+//= require activestorage
+>>>>>>> advanced-login
+//= require jquery
+//= require bootstrap
 //= require rails-ujs
 //= require turbolinks
+<<<<<<< HEAD
+//= require_tree . 
+=======
 //= require_tree .
+>>>>>>> advanced-login
